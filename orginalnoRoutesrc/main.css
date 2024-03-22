@@ -1,0 +1,13 @@
+#table{
+    background: linear-gradient(270deg, royalblue,cyan);
+    border: 1px solid black;
+    font-size: 19px;
+}
+
+td{
+    border: 2px solid black;
+}
+
+#dodaj{
+    margin-bottom: 10px;
+}
